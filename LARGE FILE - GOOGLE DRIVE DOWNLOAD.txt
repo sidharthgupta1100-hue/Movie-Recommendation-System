@@ -1,0 +1,18 @@
+LARGE FILE - GOOGLE DRIVE DOWNLOAD
+https://drive.google.com/file/d/1TqoiRZ_46L47utBC8onZsG0L17kmJQNE/view?usp=sharing
+===================================
+
+The following file is too large for GitHub (176MB) and is hosted on Google Drive:
+
+File: similarity.pkl
+Description: Cosine Similarity matrix computed from 4800+ TMDB movies.
+             Used by the recommendation engine to find the top 5 similar movies.
+             Load it using: similarity = pickle.load(open('similarity.pkl', 'rb'))
+
+Download Link: paste your Google Drive link here
+
+HOW TO USE AFTER DOWNLOADING:
+------------------------------
+1. Download similarity.pkl from the link above
+2. Place it in the root folder of this project
+3. Run the notebook normally
